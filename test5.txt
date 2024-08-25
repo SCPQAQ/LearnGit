@@ -1,2 +1,6 @@
 testtesttest
+<<<<<<< HEAD
 YESYESYES
+=======
+NONONONO11111
+>>>>>>> origin/test
